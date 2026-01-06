@@ -1,1 +1,1 @@
-# ai-financial-research-agent
+# AI Financial Research Agent
