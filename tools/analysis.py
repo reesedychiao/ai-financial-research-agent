@@ -30,6 +30,5 @@ def run_baseline_model(price_df: pd.DataFrame, price_col: str = "Close") -> dict
 
     return {
         "metrics": metrics,
-        "summary": summary_df,
-        "model": model,
+        "summary": summary_df
     }
